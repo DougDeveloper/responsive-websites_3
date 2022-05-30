@@ -144,7 +144,7 @@ header ul li a{
 /* inserindo e posicionando a parte de redes sociais */
 .social{
     position: absolute;
-    top: 50%;
+    top: 51%;
     right: 30px;
     transform: translateY(-50%);
     display: flex;
